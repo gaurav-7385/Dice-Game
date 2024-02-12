@@ -1,8 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot (14)](https://github.com/gaurav-7385/Dice-Game/assets/153974792/8e34c7d1-c303-40f1-8f3a-14c6a972ea29)
+![Screenshot (15)](https://github.com/gaurav-7385/Dice-Game/assets/153974792/76fea940-1ee0-405c-bbc0-839041a24e7e)
+![Screenshot (16)](https://github.com/gaurav-7385/Dice-Game/assets/153974792/3fcea916-d49e-47d5-8179-1508bd254d35)
+![Screenshot (17)](https://github.com/gaurav-7385/Dice-Game/assets/153974792/87ee6eeb-abac-4e47-b58a-c189f25d3a25)
+![Screenshot (18)](https://github.com/gaurav-7385/Dice-Game/assets/153974792/220b8c8f-98f2-4c0e-9d9c-f35ed6e52f9f)
